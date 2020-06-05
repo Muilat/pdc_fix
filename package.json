@@ -1,0 +1,26 @@
+{
+  "name": "pdc_backup_",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "moment": "^2.26.0",
+    "mongoose": "^5.9.16",
+    "xlsx": "^0.16.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Muilat/pdc_fix.git"
+  },
+  "keywords": [],
+  "author": "Muibudeen Abdullateef <muilat.champ@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Muilat/pdc_fix/issues"
+  },
+  "homepage": "https://github.com/Muilat/pdc_fix#readme"
+}
